@@ -51,7 +51,7 @@ ref links and icons
 </p>
 -->
 
-![Hello There](https://github.com/senthilvs7/senthilvs7/assets/profile.gif)
+![Hello There](https://github.com/senthilvs7/senthilvs7/raw/master/assets/profile.gif)
 
 <p align="center">
   <a href="https://senthilvs7.github.io/blog/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
